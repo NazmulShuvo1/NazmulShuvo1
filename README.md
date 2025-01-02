@@ -64,10 +64,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=NazmulShuvo1&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NazmulShuvo1/NazmulShuvo1)
-[![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=NazmulShuvo1&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NazmulShuvo1/100_plus_C_Problems)
-[![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=NazmulShuvo1&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NazmulShuvo1/front_end_projects)
-[![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=NazmulShuvo1&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/NazmulShuvo1/weblitical)
+[![Java Projects](https://github.com/NazmulShuvo1/NazmulShuvo1)](https://github.com/NazmulShuvo1/NazmulShuvo1)
 
 <p align="left">
   <a href="https://github.com/NazmulShuvo1?tab=repositorie" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
