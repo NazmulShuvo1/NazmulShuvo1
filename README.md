@@ -22,7 +22,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 📫 How to reach me **nazmulhoque4736@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/NazmulShuvo1)
+- 📄 All About Me:[https://lnk.bio/NazmulShuvo1]
 
 <h3 align="left">Connect with me:</h3>
 
