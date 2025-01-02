@@ -64,7 +64,6 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github.com/NazmulShuvo1/NazmulShuvo1)](https://github.com/NazmulShuvo1/NazmulShuvo1)
 
 <p align="left">
   <a href="https://github.com/NazmulShuvo1?tab=repositorie" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
